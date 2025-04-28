@@ -1,0 +1,51 @@
+Nama : Fadhlian Nur Fajri
+NIM : 2306147
+No 1
+1.	Gejala:
+a.	Daun menguning
+b.	Terdapat bercak hitam
+c.	Daun berlubang
+d.	Tanaman layu
+
+1. Definisi Gejala dan Hama
+Kita Akan Buat Hama Untuk Stiap Gejala
+1.Daun Menguning -> Hama A ( Kutu Daun)
+2. Terdapat bercak hitam -> Hama B (Jamur daun)
+3. Daun berlubang -> Hama C (Ulat daun)
+4. Tanaman layu -> Hama D (Nematoda akar)
+
+
+2. Aturan Logika 
+a)	Jika daun menguning -> kemungkinan ada Kutu Daun.
+b)	Jika ada bercak hitam -> kemungkinan ada Jamur Daun.
+c)	Jika daun berlubang -> kemungkinan ada Ulat Daun.
+d)	Jika tanaman layu -> kemungkinan ada Nematoda Akar.
+Atau kombinasi gejala:
+e)	Jika daun menguning dan berlubang -> serangan parah oleh Ulat Daun.
+ 
+
+2.	Pseudocode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Python 
+Terpisah ,ada di luar file dengan format soal py
+5. Penjelasan Alur Inferensi:
+a)	Input: pengguna memasukkan daftar gejala tanaman.
+b)	Inferensi: sistem mencocokkan gejala dengan aturan logika yang sudah dibuat.
+c)	Output: sistem memberikan kemungkinan jenis hama berdasarkan kecocokan gejala.
+
